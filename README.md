@@ -1,12 +1,10 @@
-# Flareact Template
+# Flareact Demo
 
-Get started with Flareact by installing [Wrangler](https://github.com/cloudflare/wrangler) and running:
-
-```bash
-wrangler generate my-project https://github.com/flareact/flareact-template
-```
+Get started with Flareact by installing [Wrangler](https://github.com/cloudflare/wrangler)
 
 Next, fill in `account_id` and `name` inside your `wrangler.toml` file.
+
+Add `CF_ACCOUNT_ID` to `.env` file.
 
 Finally, run `yarn dev` to see magic happen 🎉
 
