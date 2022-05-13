@@ -1,0 +1,12 @@
+name = "flareact"
+type = "webpack"
+account_id = "76da2554c52fc1eb1de0c48fcc80e7d8"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "node_modules/flareact/webpack"
+compatibility_date = "2022-05-10"
+
+[site]
+bucket = "out"
+entry-point = "./"
